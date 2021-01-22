@@ -46,7 +46,7 @@ div .container {
 }
 
 #chicken {
-    background-color: #e9aab2;
+    background-color: #cc818a;
     color: black;
     text-align: center;
     border: 2px solid black;
@@ -60,7 +60,7 @@ div .container {
 }
 
 #beef {
-    background-color: #b84141;
+    background-color: #a13939;
     color: white;
     text-align: center;
     border: 2px solid black;
@@ -74,7 +74,7 @@ div .container {
 }
 
 #sushi {
-    background-color: #ebdead;
+    background-color: #decf96;
     color: black;
     text-align: center;
     border: 2px solid black;
